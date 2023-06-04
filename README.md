@@ -26,3 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salahbltr&show_icons=true&locale=en" alt="salahbltr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salahbltr&" alt="salahbltr" /></p>
+<img align="right" alt="Coding" width="1000" src="https://storage.googleapis.com/duckly-blog/2021/03/gitduck-vs-code-extensions-animation-opt.gif">
